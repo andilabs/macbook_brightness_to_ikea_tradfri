@@ -3,6 +3,6 @@
 
 reuquirements:
 
-- [pytradfri](https://github.com/home-assistant-libs/pytradfri
-- sh
+- [pytradfri](https://github.com/home-assistant-libs/pytradfri)
+- [sh](https://pypi.org/project/sh/)
 - [hombrew brightness](https://formulae.brew.sh/formula/brightness)
