@@ -3,6 +3,6 @@
 
 reuquirements:
 
-- pytradfri
+- [pytradfri](https://github.com/home-assistant-libs/pytradfri
 - sh
-- hombrew brightness
+- [hombrew brightness](https://formulae.brew.sh/formula/brightness)
